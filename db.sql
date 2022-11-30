@@ -1,3 +1,3 @@
 database connection
-db-password=$password
-db-username=$user
+db-password=$passwords
+db-username=$users
